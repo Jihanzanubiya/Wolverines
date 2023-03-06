@@ -89,11 +89,14 @@
 			  id="search-input"
 			  placeholder="Search product name here.."
 			/>
-			
+			<button id="search">Search</button>
+      </div>
+      <div id="buttons">
 		<!-- Script -->
 		<script src="script.js"></script>
 	  </body>
 	</html>
+
 	<!-- main slider section -->
 	<section class="fslider">
 		<div class="slider">
@@ -259,7 +262,7 @@
 			    	<div class="row">
 					    <div class="col s12">
 					      <div class="card-panel teal" style="background: #8371b3 !important;">
-					        <span class="white-text">""Saya sangat suka topi Wolverines saya! Desainnya unik dan kualitasnya sangat baik. Saya telah mengenakannya berulang kali dan masih terlihat seperti baru."<br>-<br><strong>-Diana</strong>
+					        <span class="white-text">"Saya sangat suka topi Wolverines saya! Desainnya unik dan kualitasnya sangat baik. Saya telah mengenakannya berulang kali dan masih terlihat seperti baru."<br>-<br><strong>-Diana</strong>
 					        </span>
 					      </div>
 					    </div>
@@ -270,7 +273,7 @@
 			    	<div class="row">
 					    <div class="col s12">
 					      <div class="card-panel teal" style="background: #8371b3 !important;">
-					        <span class="white-text">""Saya selalu membeli pakaian Wolverines karena desainnya selalu up-to-date dan berkualitas tinggi."<br>-<br> <strong>Aris</strong>
+					        <span class="white-text">""Saya selalu membeli pakaian Wolverines karena desainnya selalu up-to-date dan berkualitas tinggi."<br>-<br> <strong>Joshua</strong>
 					        </span>
 					      </div>
 					    </div>
@@ -315,7 +318,7 @@
 			    	<div class="row">
 					    <div class="col s12">
 					      <div class="card-panel teal" style="background: #8371b3 !important;">
-					        <span class="white-text">"This is one of the best place for spend your money!"<br>-<br> <strong>Ale</strong>
+					        <span class="white-text">"This is one of the best place for spend your money!"<br>-<br> <strong>Dino</strong>
 					        </span>
 					      </div>
 					    </div>
